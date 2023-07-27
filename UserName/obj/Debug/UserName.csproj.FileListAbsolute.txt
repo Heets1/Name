@@ -1,0 +1,8 @@
+C:\Users\Денис\source\repos\UserName\UserName\bin\Debug\UserName.exe.config
+C:\Users\Денис\source\repos\UserName\UserName\bin\Debug\UserName.exe
+C:\Users\Денис\source\repos\UserName\UserName\bin\Debug\UserName.pdb
+C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.csproj.AssemblyReference.cache
+C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.exe
+C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.pdb
