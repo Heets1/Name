@@ -6,3 +6,11 @@ C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.csproj.Sug
 C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.csproj.CoreCompileInputs.cache
 C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.exe
 C:\Users\Денис\source\repos\UserName\UserName\obj\Debug\UserName.pdb
+C:\Users\Денис\Documents\GitHub\Name\UserName\bin\Debug\UserName.exe.config
+C:\Users\Денис\Documents\GitHub\Name\UserName\bin\Debug\UserName.exe
+C:\Users\Денис\Documents\GitHub\Name\UserName\bin\Debug\UserName.pdb
+C:\Users\Денис\Documents\GitHub\Name\UserName\obj\Debug\UserName.csproj.AssemblyReference.cache
+C:\Users\Денис\Documents\GitHub\Name\UserName\obj\Debug\UserName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Денис\Documents\GitHub\Name\UserName\obj\Debug\UserName.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Documents\GitHub\Name\UserName\obj\Debug\UserName.exe
+C:\Users\Денис\Documents\GitHub\Name\UserName\obj\Debug\UserName.pdb
