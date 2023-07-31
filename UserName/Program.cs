@@ -10,9 +10,9 @@ namespace ConsoleApp4
             string lastName = "Карпеев";
             byte age = 24;
             string email = "denio4141@gmail.com";
-            object ballProgramm = "6,1";
-            object ballMat = "4,2";
-            object ballFiz = "5,3";
+            float ballProgramm = 6.1F;
+            float ballMat = 4.2F;
+            float ballFiz = 5.3F;
 
             string newPattern = "Имя: {0} \nФамилия: {1} \nДата рождения: {2} \nПочта: {3} \nБаллы по программированию: {4} \nБаллы по математики: {5} \nБаллы по физике: {6}";
             Console.WriteLine(newPattern,
